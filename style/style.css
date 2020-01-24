@@ -1,0 +1,100 @@
+.languages {
+    background-image: url("../media/languages.jpeg");
+}
+
+.c {
+    background-image: url("../media/c.jpg");
+}
+
+.cpp {
+    background-image: url("../media/c++.jpg");
+}
+
+.css {
+    background-image: url("../media/css.jpeg");
+}
+
+.dart {
+    background-image: url("../media/dart.jpg");
+}
+
+.go {
+    background-image: url("../media/go.png");
+}
+
+.groovy {
+    background-image: url("../media/groovy.png");
+}
+
+.html {
+    background-image: url("../media/html.jpg");
+}
+
+.java {
+    background-image: url("../media/java.jpg");
+}
+
+.javascript {
+    background-image: url("../media/javascript.jpg");
+}
+
+.julia {
+    background-image: url("../media/julia.png");
+}
+
+.kotlin {
+    background-image: url("../media/kotlin.jpeg");
+}
+
+.php {
+    background-image: url("../media/php.png");
+}
+
+.python {
+    background-image: url("../media/python.jpeg");
+}
+
+.ruby {
+    background-image: url("../media/ruby.jpg");
+}
+
+.sql {
+    background-image: url("../media/sql.png");
+}
+
+.swift {
+    background-image: url("../media/swift.jpeg");
+}
+
+.languages, .logo, .c, .cpp, .css, .dart, .go, .groovy, .html, .java, .javascript, .julia, .kotlin, .php, .python, .ruby, .sql, .swift {
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+.text-section {
+    background-color: blueviolet;
+    color: #ffffff;
+    padding: 100px;
+}
+
+.text-section h2 {
+    font-size: 2.4rem;
+    text-align: center;
+}
+
+.text-section h3 {
+    font-size: 2rem;
+}
+
+.text-section li {
+    font-size: 1.4rem;
+}
+
+.text-section .description {
+    font-size: 1.2rem;
+}
